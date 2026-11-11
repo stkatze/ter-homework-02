@@ -16,3 +16,4 @@ authorized_key.json
 sa-key.json
 .terraform/
 .terraform.lock.hcl
+.DS_Store
